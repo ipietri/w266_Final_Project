@@ -629,8 +629,7 @@ class MyTaskPVP(PVP):
     # the corresponding DataProcessor's get_labels method) to tokens from the language model's vocabulary
     VERBALIZER = {
         "0": ["good"],
-        "1": ["bad"],
-        "2": ["terrible"]
+        "1": ["bad"]
     }
 
     def get_parts(self, example: InputExample):
