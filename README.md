@@ -9,6 +9,6 @@ In this project we explore data augmentation techniques in the context of text c
 
 ## Files Description
 
-- `notebooks/RtGender-Notebooks/` directory contains the experiments with the RtGender dataset
-- `notebooks/TRAC-2-notebooks/` directory contains the experiments with the TRAC-2 dataset
+- `notebooks/RtGender-Notebooks/` directory: contains the experiments with the RtGender dataset
+- `notebooks/TRAC-2-notebooks/` directory: contains the experiments with the TRAC-2 dataset
 - `papers` directory: related papers
